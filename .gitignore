@@ -93,3 +93,14 @@ examples/jeopardy/results.txt
 poetry.lock
 poetry.toml
 nppBackup
+models/70B/**
+models/7B/**
+models/65B/**
+models/13B/**
+models/30B/**
+models/65B
+
+_tokenizer.model
+**/*.gguf
+*.gguf
+llama-2-7b-chat/**
