@@ -28,7 +28,7 @@ NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
 ConfigureCommand: "/opt/homebrew/Cellar/cmake/3.28.2/bin/cmake" "/Users/jordan.kanter/Developer/Projects/guanaco-llm/llama.cpp"
-MakeCommand: /opt/homebrew/Cellar/cmake/3.28.2/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}"
+MakeCommand: /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}"
 DefaultCTestConfigurationType: Release
 
 # version control
