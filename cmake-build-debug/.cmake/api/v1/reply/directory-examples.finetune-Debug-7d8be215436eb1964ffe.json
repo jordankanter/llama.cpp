@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"examples/finetune/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/finetune"
+			],
+			"targetId" : "finetune::@29c293ad37c695286d2f",
+			"targetIndex" : 38,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "examples/finetune",
+		"source" : "examples/finetune"
+	}
+}
