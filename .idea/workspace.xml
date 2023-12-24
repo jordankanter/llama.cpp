@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="llama.cpp" targetName="ExperimentalCoverage" />
+      <config projectName="llama.cpp" targetName="all" />
+      <config projectName="llama.cpp" targetName="batched" />
+      <config projectName="llama.cpp" targetName="NightlyBuild" />
+      <config projectName="llama.cpp" targetName="rebuild_cache" />
+      <config projectName="llama.cpp" targetName="benchmark" />
+      <config projectName="llama.cpp" targetName="NightlyStart" />
+      <config projectName="llama.cpp" targetName="export-lora" />
+      <config projectName="llama.cpp" targetName="NightlyMemoryCheck" />
+      <config projectName="llama.cpp" targetName="test-c" />
+      <config projectName="llama.cpp" targetName="finetune" />
+      <config projectName="llama.cpp" targetName="depend" />
+      <config projectName="llama.cpp" targetName="perplexity" />
+      <config projectName="llama.cpp" targetName="q8dot" />
+      <config projectName="llama.cpp" targetName="test-tokenizer-0-falcon" />
+      <config projectName="llama.cpp" targetName="ContinuousTest" />
+      <config projectName="llama.cpp" targetName="ContinuousStart" />
+      <config projectName="llama.cpp" targetName="llama" />
+      <config projectName="llama.cpp" targetName="NightlyCoverage" />
+      <config projectName="llama.cpp" targetName="ContinuousSubmit" />
+      <config projectName="llama.cpp" targetName="parallel" />
+      <config projectName="llama.cpp" targetName="simple" />
+      <config projectName="llama.cpp" targetName="test-grad0" />
+      <config projectName="llama.cpp" targetName="ContinuousCoverage" />
+      <config projectName="llama.cpp" targetName="test-tokenizer-1-bpe" />
+      <config projectName="llama.cpp" targetName="cmake_force" />
+      <config projectName="llama.cpp" targetName="infill" />
+      <config projectName="llama.cpp" targetName="NightlyMemCheck" />
+      <config projectName="llama.cpp" targetName="ExperimentalTest" />
+      <config projectName="llama.cpp" targetName="llava-cli" />
+      <config projectName="llama.cpp" targetName="ContinuousUpdate" />
+      <config projectName="llama.cpp" targetName="test-sampling" />
+      <config projectName="llama.cpp" targetName="main" />
+      <config projectName="llama.cpp" targetName="test-llama-grammar" />
+      <config projectName="llama.cpp" targetName="test-tokenizer-1-llama" />
+      <config projectName="llama.cpp" targetName="help" />
+      <config projectName="llama.cpp" targetName="tokenize" />
+      <config projectName="llama.cpp" targetName="llava" />
+      <config projectName="llama.cpp" targetName="test-quantize-perf" />
+      <config projectName="llama.cpp" targetName="baby-llama" />
+      <config projectName="llama.cpp" targetName="lookahead" />
+      <config projectName="llama.cpp" targetName="ContinuousBuild" />
+      <config projectName="llama.cpp" targetName="NightlyTest" />
+      <config projectName="llama.cpp" targetName="speculative" />
+      <config projectName="llama.cpp" targetName="default_target" />
+      <config projectName="llama.cpp" targetName="llama-bench" />
+      <config projectName="llama.cpp" targetName="NightlyConfigure" />
+      <config projectName="llama.cpp" targetName="Experimental" />
+      <config projectName="llama.cpp" targetName="ExperimentalMemCheck" />
+      <config projectName="llama.cpp" targetName="test-quantize-fns" />
+      <config projectName="llama.cpp" targetName="quantize-stats" />
+      <config projectName="llama.cpp" targetName="train-text-from-scratch" />
+      <config projectName="llama.cpp" targetName="ExperimentalUpdate" />
+      <config projectName="llama.cpp" targetName="vdot" />
+      <config projectName="llama.cpp" targetName="NightlyUpdate" />
+      <config projectName="llama.cpp" targetName="test" />
+      <config projectName="llama.cpp" targetName="embedding" />
+      <config projectName="llama.cpp" targetName="build_info" />
+      <config projectName="llama.cpp" targetName="test-tokenizer-0-llama" />
+      <config projectName="llama.cpp" targetName="llava_static" />
+      <config projectName="llama.cpp" targetName="ContinuousConfigure" />
+      <config projectName="llama.cpp" targetName="quantize" />
+      <config projectName="llama.cpp" targetName="Continuous" />
+      <config projectName="llama.cpp" targetName="ExperimentalConfigure" />
+      <config projectName="llama.cpp" targetName="ExperimentalBuild" />
+      <config projectName="llama.cpp" targetName="ggml_static" />
+      <config projectName="llama.cpp" targetName="ContinuousMemCheck" />
+      <config projectName="llama.cpp" targetName="list_install_components" />
+      <config projectName="llama.cpp" targetName="save-load-state" />
+      <config projectName="llama.cpp" targetName="server" />
+      <config projectName="llama.cpp" targetName="beam-search" />
+      <config projectName="llama.cpp" targetName="common" />
+      <config projectName="llama.cpp" targetName="install" />
+      <config projectName="llama.cpp" targetName="batched-bench" />
+      <config projectName="llama.cpp" targetName="convert-llama2c-to-ggml" />
+      <config projectName="llama.cpp" targetName="edit_cache" />
+      <config projectName="llama.cpp" targetName="ggml" />
+      <config projectName="llama.cpp" targetName="NightlySubmit" />
+      <config projectName="llama.cpp" targetName="ExperimentalStart" />
+      <config projectName="llama.cpp" targetName="test-grammar-parser" />
+      <config projectName="llama.cpp" targetName="test-rope" />
+      <config projectName="llama.cpp" targetName="Nightly" />
+      <config projectName="llama.cpp" targetName="metal" />
+      <config projectName="llama.cpp" targetName="preinstall" />
+      <config projectName="llama.cpp" targetName="ExperimentalSubmit" />
+      <config projectName="llama.cpp" targetName="test-backend-ops" />
+      <config projectName="llama.cpp" targetName="cmake_check_build_system" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b679e2cc-fba1-4f82-ba85-f95b64164566" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/models/llama_src_repo/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/models/llama_src_repo/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/llama_src_repo/USE_POLICY.md" beforeDir="false" afterPath="$PROJECT_DIR$/models/llama_src_repo/USE_POLICY.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="300390d4" />
+  </component>
+  <component name="MakefileLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="llama.cpp" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="llama.cpp" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.3" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2QgC6zZLa98YaokBMKIIqm6prsV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/Users/jordan.kanter/Developer/Projects/llama.cpp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CPPToolchains",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Native Application.all">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Continuous" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="Continuous" CONFIG_NAME="Continuous" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousBuild" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="ContinuousBuild" CONFIG_NAME="ContinuousBuild" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousConfigure" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="ContinuousConfigure" CONFIG_NAME="ContinuousConfigure" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousCoverage" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="ContinuousCoverage" CONFIG_NAME="ContinuousCoverage" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousMemCheck" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="ContinuousMemCheck" CONFIG_NAME="ContinuousMemCheck" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousStart" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="ContinuousStart" CONFIG_NAME="ContinuousStart" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousSubmit" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="ContinuousSubmit" CONFIG_NAME="ContinuousSubmit" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousTest" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="ContinuousTest" CONFIG_NAME="ContinuousTest" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousUpdate" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="ContinuousUpdate" CONFIG_NAME="ContinuousUpdate" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Experimental" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="Experimental" CONFIG_NAME="Experimental" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalBuild" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="ExperimentalBuild" CONFIG_NAME="ExperimentalBuild" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalConfigure" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="ExperimentalConfigure" CONFIG_NAME="ExperimentalConfigure" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalCoverage" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="ExperimentalCoverage" CONFIG_NAME="ExperimentalCoverage" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalMemCheck" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="ExperimentalMemCheck" CONFIG_NAME="ExperimentalMemCheck" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalStart" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="ExperimentalStart" CONFIG_NAME="ExperimentalStart" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalSubmit" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="ExperimentalSubmit" CONFIG_NAME="ExperimentalSubmit" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalTest" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="ExperimentalTest" CONFIG_NAME="ExperimentalTest" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalUpdate" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="ExperimentalUpdate" CONFIG_NAME="ExperimentalUpdate" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nightly" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="Nightly" CONFIG_NAME="Nightly" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyBuild" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="NightlyBuild" CONFIG_NAME="NightlyBuild" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyConfigure" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="NightlyConfigure" CONFIG_NAME="NightlyConfigure" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyCoverage" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="NightlyCoverage" CONFIG_NAME="NightlyCoverage" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyMemCheck" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="NightlyMemCheck" CONFIG_NAME="NightlyMemCheck" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyMemoryCheck" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="NightlyMemoryCheck" CONFIG_NAME="NightlyMemoryCheck" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyStart" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="NightlyStart" CONFIG_NAME="NightlyStart" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlySubmit" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="NightlySubmit" CONFIG_NAME="NightlySubmit" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyTest" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="NightlyTest" CONFIG_NAME="NightlyTest" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyUpdate" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="NightlyUpdate" CONFIG_NAME="NightlyUpdate" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="all" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="all" CONFIG_NAME="all" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="baby-llama" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="baby-llama" CONFIG_NAME="baby-llama" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="batched-bench" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="batched-bench" CONFIG_NAME="batched-bench" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="batched" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="batched" CONFIG_NAME="batched" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="beam-search" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="beam-search" CONFIG_NAME="beam-search" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="benchmark" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="benchmark" CONFIG_NAME="benchmark" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build_info" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="build_info" CONFIG_NAME="build_info" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cmake_check_build_system" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="cmake_check_build_system" CONFIG_NAME="cmake_check_build_system" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cmake_force" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="cmake_force" CONFIG_NAME="cmake_force" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="common" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="common" CONFIG_NAME="common" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="convert-llama2c-to-ggml" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="convert-llama2c-to-ggml" CONFIG_NAME="convert-llama2c-to-ggml" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="default_target" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="default_target" CONFIG_NAME="default_target" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="depend" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="depend" CONFIG_NAME="depend" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edit_cache" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="edit_cache" CONFIG_NAME="edit_cache" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="embedding" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="embedding" CONFIG_NAME="embedding" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="export-lora" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="export-lora" CONFIG_NAME="export-lora" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="finetune" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="finetune" CONFIG_NAME="finetune" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ggml" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="ggml" CONFIG_NAME="ggml" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ggml_static" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="ggml_static" CONFIG_NAME="ggml_static" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="help" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="help" CONFIG_NAME="help" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="infill" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="infill" CONFIG_NAME="infill" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="install" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="install" CONFIG_NAME="install" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="list_install_components" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="list_install_components" CONFIG_NAME="list_install_components" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="llama-bench" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="llama-bench" CONFIG_NAME="llama-bench" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="llama" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="llama" CONFIG_NAME="llama" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="llava-cli" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="llava-cli" CONFIG_NAME="llava-cli" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="llava" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="llava" CONFIG_NAME="llava" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="llava_static" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="llava_static" CONFIG_NAME="llava_static" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lookahead" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="lookahead" CONFIG_NAME="lookahead" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="main" CONFIG_NAME="main" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="metal" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="metal" CONFIG_NAME="metal" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parallel" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="parallel" CONFIG_NAME="parallel" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="perplexity" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="perplexity" CONFIG_NAME="perplexity" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="preinstall" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="preinstall" CONFIG_NAME="preinstall" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q8dot" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="q8dot" CONFIG_NAME="q8dot" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quantize-stats" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="quantize-stats" CONFIG_NAME="quantize-stats" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quantize" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="quantize" CONFIG_NAME="quantize" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rebuild_cache" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="rebuild_cache" CONFIG_NAME="rebuild_cache" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="save-load-state" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="save-load-state" CONFIG_NAME="save-load-state" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="server" CONFIG_NAME="server" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="simple" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="simple" CONFIG_NAME="simple" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="speculative" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="speculative" CONFIG_NAME="speculative" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-backend-ops" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="test-backend-ops" CONFIG_NAME="test-backend-ops" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-c" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="test-c" CONFIG_NAME="test-c" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-grad0" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="test-grad0" CONFIG_NAME="test-grad0" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-grammar-parser" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="test-grammar-parser" CONFIG_NAME="test-grammar-parser" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-llama-grammar" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="test-llama-grammar" CONFIG_NAME="test-llama-grammar" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-quantize-fns" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="test-quantize-fns" CONFIG_NAME="test-quantize-fns" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-quantize-perf" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="test-quantize-perf" CONFIG_NAME="test-quantize-perf" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-rope" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="test-rope" CONFIG_NAME="test-rope" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-sampling" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="test-sampling" CONFIG_NAME="test-sampling" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-tokenizer-0-falcon" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="test-tokenizer-0-falcon" CONFIG_NAME="test-tokenizer-0-falcon" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-tokenizer-0-llama" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="test-tokenizer-0-llama" CONFIG_NAME="test-tokenizer-0-llama" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-tokenizer-1-bpe" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="test-tokenizer-1-bpe" CONFIG_NAME="test-tokenizer-1-bpe" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test-tokenizer-1-llama" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="test-tokenizer-1-llama" CONFIG_NAME="test-tokenizer-1-llama" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="test" CONFIG_NAME="test" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tokenize" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="tokenize" CONFIG_NAME="tokenize" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="train-text-from-scratch" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="train-text-from-scratch" CONFIG_NAME="train-text-from-scratch" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vdot" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="llama.cpp" TARGET_NAME="vdot" CONFIG_NAME="vdot" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Unnamed" />
+      <item itemvalue="Native Application.all" />
+      <item itemvalue="Native Application.baby-llama" />
+      <item itemvalue="Native Application.batched" />
+      <item itemvalue="Native Application.batched-bench" />
+      <item itemvalue="Native Application.beam-search" />
+      <item itemvalue="Native Application.benchmark" />
+      <item itemvalue="Native Application.build_info" />
+      <item itemvalue="Native Application.cmake_check_build_system" />
+      <item itemvalue="Native Application.cmake_force" />
+      <item itemvalue="Native Application.common" />
+      <item itemvalue="Native Application.Continuous" />
+      <item itemvalue="Native Application.ContinuousBuild" />
+      <item itemvalue="Native Application.ContinuousConfigure" />
+      <item itemvalue="Native Application.ContinuousCoverage" />
+      <item itemvalue="Native Application.ContinuousMemCheck" />
+      <item itemvalue="Native Application.ContinuousStart" />
+      <item itemvalue="Native Application.ContinuousSubmit" />
+      <item itemvalue="Native Application.ContinuousTest" />
+      <item itemvalue="Native Application.ContinuousUpdate" />
+      <item itemvalue="Native Application.convert-llama2c-to-ggml" />
+      <item itemvalue="Native Application.default_target" />
+      <item itemvalue="Native Application.depend" />
+      <item itemvalue="Native Application.edit_cache" />
+      <item itemvalue="Native Application.embedding" />
+      <item itemvalue="Native Application.Experimental" />
+      <item itemvalue="Native Application.ExperimentalBuild" />
+      <item itemvalue="Native Application.ExperimentalConfigure" />
+      <item itemvalue="Native Application.ExperimentalCoverage" />
+      <item itemvalue="Native Application.ExperimentalMemCheck" />
+      <item itemvalue="Native Application.ExperimentalStart" />
+      <item itemvalue="Native Application.ExperimentalSubmit" />
+      <item itemvalue="Native Application.ExperimentalTest" />
+      <item itemvalue="Native Application.ExperimentalUpdate" />
+      <item itemvalue="Native Application.export-lora" />
+      <item itemvalue="Native Application.finetune" />
+      <item itemvalue="Native Application.ggml" />
+      <item itemvalue="Native Application.ggml_static" />
+      <item itemvalue="Native Application.help" />
+      <item itemvalue="Native Application.infill" />
+      <item itemvalue="Native Application.install" />
+      <item itemvalue="Native Application.list_install_components" />
+      <item itemvalue="Native Application.llama" />
+      <item itemvalue="Native Application.llama-bench" />
+      <item itemvalue="Native Application.llava" />
+      <item itemvalue="Native Application.llava-cli" />
+      <item itemvalue="Native Application.llava_static" />
+      <item itemvalue="Native Application.lookahead" />
+      <item itemvalue="Native Application.main" />
+      <item itemvalue="Native Application.metal" />
+      <item itemvalue="Native Application.Nightly" />
+      <item itemvalue="Native Application.NightlyBuild" />
+      <item itemvalue="Native Application.NightlyConfigure" />
+      <item itemvalue="Native Application.NightlyCoverage" />
+      <item itemvalue="Native Application.NightlyMemCheck" />
+      <item itemvalue="Native Application.NightlyMemoryCheck" />
+      <item itemvalue="Native Application.NightlyStart" />
+      <item itemvalue="Native Application.NightlySubmit" />
+      <item itemvalue="Native Application.NightlyTest" />
+      <item itemvalue="Native Application.NightlyUpdate" />
+      <item itemvalue="Native Application.parallel" />
+      <item itemvalue="Native Application.perplexity" />
+      <item itemvalue="Native Application.preinstall" />
+      <item itemvalue="Native Application.q8dot" />
+      <item itemvalue="Native Application.quantize" />
+      <item itemvalue="Native Application.quantize-stats" />
+      <item itemvalue="Native Application.rebuild_cache" />
+      <item itemvalue="Native Application.save-load-state" />
+      <item itemvalue="Native Application.server" />
+      <item itemvalue="Native Application.simple" />
+      <item itemvalue="Native Application.speculative" />
+      <item itemvalue="Native Application.test" />
+      <item itemvalue="Native Application.test-backend-ops" />
+      <item itemvalue="Native Application.test-c" />
+      <item itemvalue="Native Application.test-grad0" />
+      <item itemvalue="Native Application.test-grammar-parser" />
+      <item itemvalue="Native Application.test-llama-grammar" />
+      <item itemvalue="Native Application.test-quantize-fns" />
+      <item itemvalue="Native Application.test-quantize-perf" />
+      <item itemvalue="Native Application.test-rope" />
+      <item itemvalue="Native Application.test-sampling" />
+      <item itemvalue="Native Application.test-tokenizer-0-falcon" />
+      <item itemvalue="Native Application.test-tokenizer-0-llama" />
+      <item itemvalue="Native Application.test-tokenizer-1-bpe" />
+      <item itemvalue="Native Application.test-tokenizer-1-llama" />
+      <item itemvalue="Native Application.tokenize" />
+      <item itemvalue="Native Application.train-text-from-scratch" />
+      <item itemvalue="Native Application.vdot" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b679e2cc-fba1-4f82-ba85-f95b64164566" name="Changes" comment="" />
+      <created>1685765665822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685765665822</updated>
+      <workItem from="1685765667116" duration="328000" />
+      <workItem from="1686678597890" duration="19000" />
+      <workItem from="1689354187898" duration="73000" />
+      <workItem from="1689354265422" duration="21000" />
+      <workItem from="1703393524804" duration="1033000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
