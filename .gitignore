@@ -32,6 +32,7 @@ out/
 tmp/
 
 models/*
+models/**/*
 models-mnt
 
 /Pipfile
