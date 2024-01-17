@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/alt-llama-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/65B" vcs="Git" />
+  </component>
+</project>
