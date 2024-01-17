@@ -36,6 +36,7 @@ tmp/
 models/*
 models/**/*
 models-mnt
+alt-llama-src/**/*
 
 /Pipfile
 /baby-llama
