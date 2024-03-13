@@ -106,3 +106,5 @@ _tokenizer.model
 **/*.gguf
 *.gguf
 llama-2-7b-chat/**
+/cmake-build-debug/**
+
