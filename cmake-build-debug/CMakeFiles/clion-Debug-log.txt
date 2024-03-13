@@ -1,4 +1,0 @@
-Cannot generate into /Users/jordan.kanter/Developer/Projects/guanaco-llm/llama.cpp
-It is already used for project /Users/jordan.kanter/Developer/Projects/llama.cpp
-
-Please either delete it manually or select another generation directory
