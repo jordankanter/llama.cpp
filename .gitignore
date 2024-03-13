@@ -34,10 +34,7 @@ out/
 tmp/
 
 models/*
-models/**/*
 models-mnt
-alt-llama-src/**/*
-/alt-llama-src
 
 /Pipfile
 /baby-llama
@@ -48,7 +45,7 @@ alt-llama-src/**/*
 /embedding
 /gguf
 /gguf-llama-simple
-/infi
+/gritlm
 /imatrix
 /infill
 /libllama.so
